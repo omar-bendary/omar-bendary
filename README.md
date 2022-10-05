@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Omar Bendary
 
-- 🔭 I’m currently working as Python Developer
+- 🔭 I’m currently working as Backend Engineer
 - 🌱 I’m currently learning Advanced topics in Web development with Django | Rest Framework APIs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with finding a new challanges to improve my skills
